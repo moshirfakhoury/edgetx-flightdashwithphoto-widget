@@ -27,6 +27,6 @@ Installation:
 
 - Download the ZIP file
 - Extract the contents of the ZIP file
-- Locate the last folder named fltDash3 (it contains main.lua)
+- Locate the last folder named fltDash4 (it contains main.lua)
 - Copy this fltDash3 folder only
 - Paste the folder into your SDCard/WIDGETS directory
