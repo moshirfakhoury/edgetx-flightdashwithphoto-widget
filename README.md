@@ -30,3 +30,9 @@ Installation:
 - Locate the last folder named fltDash4 (it contains main.lua)
 - Copy this fltDash3 folder only
 - Paste the folder into your SDCard/WIDGETS directory
+
+<img width="479" height="273" alt="image" src="https://github.com/user-attachments/assets/6c64c9a8-e8d1-4a74-a4ab-655065a89012" />
+
+<img width="480" height="273" alt="image" src="https://github.com/user-attachments/assets/75646602-05e5-49f1-927e-a9ac746780b4" />
+
+
